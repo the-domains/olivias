@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-21T09:56:14.322Z'
+datePublished: '2016-05-26T14:45:45.645Z'
 author: []
-dateModified: '2016-05-21T09:56:07.928Z'
+dateModified: '2016-05-21T10:04:11.066Z'
 title: VINTAGE TRAVEL POSTERS
 description: A4 BLOCK MOUNTED WITH HANGER
-starred: false
 sourcePath: _posts/2016-05-21-vintage-travel-posters.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
