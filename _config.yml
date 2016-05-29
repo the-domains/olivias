@@ -1,15 +1,15 @@
-layout_spectrum: 0.1808161591179669
-typography_spectrum: 0.11166055523790419
+layout_spectrum: 0.23274027300067246
+typography_spectrum: 0.24824780644848943
 color:
-  brandStrength: 0.07328268396668136
-  lightness: 0.13759305560961366
-  saturation: 0.7408345888834447
-  rhythmicContrast: 0.19315484119579196
+  brandStrength: 0.9256939601618797
+  lightness: 0.25352846668101847
+  saturation: 0.3064664809498936
+  rhythmicContrast: 0.4988382691517472
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: OLIVIAS VINTAGE POSTERS
 title: 'LOST ART FOUND '
