@@ -4,7 +4,7 @@
         <description><![CDATA[LOST ART FOUND ]]></description>
         <link>https://thegrid.ai/olivias/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 14:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 14:29:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/olivias/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/olivias/india/index.html</link>
             <guid isPermaLink="false">0785fd89-cb85-446e-a97c-2c161912d5da</guid>
             <pubDate>Sat, 11 Jun 2016 14:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bab369b-2d54-4f3e-ab01-2227cefb4c35.jpg" alt="COPENHAGEN">]]></description>
-            <link>https://thegrid.ai/olivias/copenhagen/index.html</link>
-            <guid isPermaLink="false">c9360215-d03f-492b-a310-41d8f575ab16</guid>
-            <pubDate>Sat, 11 Jun 2016 14:29:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/olivias/42abe127-0839-498b-840f-469acd9fd5e6/index.html</link>
             <guid isPermaLink="false">42abe127-0839-498b-840f-469acd9fd5e6</guid>
             <pubDate>Sat, 11 Jun 2016 14:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c26082a-8da2-4559-80d7-b6e89b4646e5.jpg" alt="EGYPT">]]></description>
+            <link>https://thegrid.ai/olivias/egypt/index.html</link>
+            <guid isPermaLink="false">4e3e9dcf-c63d-4fb4-af27-586224a259eb</guid>
+            <pubDate>Sat, 11 Jun 2016 14:25:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
