@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[LOST ART FOUND ]]></title>
         <description><![CDATA[LOST ART FOUND ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olivias/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 14:20:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 11 Jun 2016 14:20:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olivias/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dfc64d1-f6d5-4af7-8f83-25d7fcea39ba.jpg" alt="INDIA">]]></description>
-            <link>undefinedindia/index.html</link>
+            <link>https://thegrid.ai/olivias/india/index.html</link>
             <guid isPermaLink="false">0785fd89-cb85-446e-a97c-2c161912d5da</guid>
             <pubDate>Sat, 11 Jun 2016 14:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b6819e-6986-452b-b914-0fe3e1fd86e8.jpg" alt="ITALY ">]]></description>
+            <link>https://thegrid.ai/olivias/italy/index.html</link>
+            <guid isPermaLink="false">7b09ed53-8025-4ff2-8eb3-8c5ad2a326a8</guid>
+            <pubDate>Sat, 11 Jun 2016 14:20:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
